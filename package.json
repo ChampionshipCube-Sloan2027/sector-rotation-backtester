@@ -1,0 +1,29 @@
+{
+  "name": "sector-rotation-backtester",
+  "version": "1.0.0",
+  "description": "Professional sector rotation strategy backtester with risk-adjusted metrics and interactive visualizations",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000",
+    "build": "echo 'No build step required for this project'",
+    "test": "echo 'Add tests here'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/sector-rotation-backtester.git"
+  },
+  "keywords": [
+    "backtesting",
+    "sector-rotation",
+    "investment-strategy",
+    "quantitative-finance",
+    "trading",
+    "s&p-500",
+    "portfolio-optimization"
+  ],
+  "author": "Mohammad",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
