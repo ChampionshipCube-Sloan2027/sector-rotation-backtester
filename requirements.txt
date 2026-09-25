@@ -1,0 +1,23 @@
+# Core data fetching
+yfinance==0.2.32
+pandas==2.1.1
+numpy==1.26.2
+
+# Data processing
+pandas-datareader==0.10.0
+requests==2.31.0
+
+# FRED API (economic data)
+fredapi==0.5.1
+
+# Optional: for advanced analysis
+scikit-learn==1.3.2
+scipy==1.11.4
+
+# Optional: for API server
+flask==3.0.0
+flask-cors==4.0.0
+
+# Testing & dev
+pytest==7.4.3
+black==23.11.0
